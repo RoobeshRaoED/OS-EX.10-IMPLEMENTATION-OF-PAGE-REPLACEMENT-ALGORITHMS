@@ -171,7 +171,7 @@ printf("\nThe no of page faults is %d",c);
 
 ## OUTPUT:
 
-
+![](10.2.png)
 
 ## RESULT:
 
@@ -237,7 +237,7 @@ return 0;
 
 ## OUTPUT:
 
-
+![](10.3.png)
 
 ## RESULT:
 
