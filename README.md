@@ -62,7 +62,7 @@ return 0;
 
 ## OUTPUT:
 
-![]()
+![](10.1.png)
 
 ## RESULT:
 
